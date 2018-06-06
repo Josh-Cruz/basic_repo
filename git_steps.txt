@@ -1,0 +1,8 @@
+-moved to /documents/Gitbug
+-mkdir basic_repo
+-touch index.html, styles.css, aboutme.txt
+-created basic_repo on Github
+-added files, commited them to Git hub
+-added this file with steps that i took to local repo
+-pushed to github
+-profit
